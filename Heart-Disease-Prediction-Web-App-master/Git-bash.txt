@@ -1,1 +1,0 @@
-git remote add origin https://github.com/sureshmecad/Heart-Disease-Prediction-Web-App.git
